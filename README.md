@@ -75,7 +75,7 @@ The Product Sales Analysis Dashboard is an interactive business intelligence pro
 
 **👨‍💻 Author**
 
-**Suresh Kumar**
+**Suresh Kumar A**
 
 ⭐ If you find this project useful, feel free to star the repository!
 
