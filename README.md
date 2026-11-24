@@ -22,19 +22,6 @@ The Product Sales Analysis Dashboard is an interactive business intelligence pro
 - Data Modeling
 - Data Visualization
 
-**📂Dataset Description**
-
-The project uses an Excel dataset containing five worksheets:
-
-**| Table        | Records     | Description |**
- 
-  | Sales        | 1,200       | Sales transaction details |
-  | Products     | 20          | Product information |
-  | Customers    | 250         | Customer information |
-  | Inventory    | 680         | Inventory details |
-  | Read Me      | 14          | Dataset documentation |
-
-**Dataset Period:** January 2024 – October 2026
 
 **📈 Dashboard Features**
 
