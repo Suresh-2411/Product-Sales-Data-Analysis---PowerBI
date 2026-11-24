@@ -67,6 +67,7 @@ The Product Sales Analysis Dashboard is an interactive business intelligence pro
 - Generating business insights through visualization.
 
 **📸 Dashboard Preview**
+
 **1. Sales Overview Dashboard**
 ![Sales Overview](images/sales-overview.png)
 
