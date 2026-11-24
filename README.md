@@ -79,6 +79,4 @@ The Product Sales Analysis Dashboard is an interactive business intelligence pro
 
 ⭐ If you find this project useful, feel free to star the repository!
 
-B.E. Computer Science and Engineering | 2026 Graduate
-
 ---
